@@ -17,6 +17,6 @@ ir[6]="if.gif"
 var ry=Math.floor(Math.random()*ir.length)
 if (ry==0)
 ry=1
-document.write('<img src="'+webtoolhub[ry]+'" border=0>')
+document.write('<img src="'+i/webtoolhub[ry]+'" border=0>')
 }
 random_imglink()
