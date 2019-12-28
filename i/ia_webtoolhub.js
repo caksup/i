@@ -10,9 +10,6 @@ var ir=new Array()
 ir[1]="ia.gif"
 ir[2]="ib.gif"
 ir[3]="ic.gif"
-ir[4]="id.gif"
-ir[5]="ie.gif"
-ir[6]="if.gif"
 
 var ry=Math.floor(Math.random()*ir.length)
 if (ry==0)
